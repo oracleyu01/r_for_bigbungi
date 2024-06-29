@@ -29,7 +29,7 @@
 
 #### 1. R 기본 문법 마스터 하기 100제
 
-- **R 기본문법100제**: [R 기본문법 100제 문제 모음](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EB%A7%88%EC%8A%A4%ED%84%B0_%ED%95%98%EA%B8%B0_100%EC%A0%9C.ipynb) 👈 이 링크를 클릭한후 open in colab 을 누르세요
+- **R 기본문법 100제**: [R 기본문법 100제 문제 모음](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EB%A7%88%EC%8A%A4%ED%84%B0_%ED%95%98%EA%B8%B0_100%EC%A0%9C.ipynb) 👈 이 링크를 클릭한후 open in colab 을 누르세요
 
 - **실습 데이터**: [실습 데이터 압축파일](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R%EA%B8%B0%EB%B3%B8%EA%B8%B0100%EC%A0%9C%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC.Egg) 👈 이 링크를 클릭한후 View raw 를 누르세요
 

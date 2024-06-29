@@ -29,7 +29,7 @@
 
 #### 1. R 기본 문법 마스터 하기 100제
 
-아래 링크를 클릭하시고 코드창을 여셨으면 위에 open in colab 을 눌러서 구글 코렙 환경에서 실습하세요
+아래 링크를 클릭하시고 코드창을 여셨으면 위에 open in colab 을 눌러서 구글 코렙 환경에서 실습 하시면 됩니다.
 
 - **R 기본문법100제**: [R 기본문법 100제 문제 모음](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R_%EA%B8%B0%EB%B3%B8_%EB%AC%B8%EB%B2%95_%EB%A7%88%EC%8A%A4%ED%84%B0_%ED%95%98%EA%B8%B0_100%EC%A0%9C.ipynb)
 

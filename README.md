@@ -29,7 +29,7 @@
 
 #### 1. R 기본 문법 마스터 하기 92문제
 
-- **R 기본문법 70문제**: [R 기본문법 70문제 모음](https://colab.research.google.com/drive/17E7avc5MfGJr6O_n6r0K6865flxm-Rk5?usp=sharing)
+- **R 기본문법 70문제**: [R 기본문법 70문제 모음](https://colab.research.google.com/drive/17E7avc5MfGJr6O_n6r0K6865flxm-Rk5?usp=sharing)👈 이 링크를 클릭하시면 구글 코렙에서 바로 실습 하실 수 있습니다
 
 - **실습 데이터**: [실습 데이터 압축파일](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R%EA%B8%B0%EB%B3%B8%EA%B8%B0100%EC%A0%9C%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC.Egg) 👈 이 링크를 클릭한후 View raw 를 누르세요
 

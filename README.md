@@ -13,7 +13,7 @@
 아래의 내용을 순서데로 차근 차근 보시면 됩니다.
 실습 환경은 구글 코렙입니다. 
 
- 1. R 기본 문법 마스터 하기 92문제
+ 1. R 기본 문법 마스터 하기 70문제
  2. R 을 이용하여 유형1번 준비하기 
  3. R 을 이용하여 유형2번 준비하기
  4. R 을 이용하여 유형3번 준비하기
@@ -29,7 +29,7 @@
 
 #### 1. R 기본 문법 마스터 하기 92문제
 
-- **R 기본문법 92문제**: [R 기본문법 92문제 모음](https://colab.research.google.com/drive/17E7avc5MfGJr6O_n6r0K6865flxm-Rk5?usp=sharing) 👈 이 링크를 클릭한후 open in colab 을 누르세요
+- **R 기본문법 70문제**: [R 기본문법 70문제 모음](https://colab.research.google.com/drive/17E7avc5MfGJr6O_n6r0K6865flxm-Rk5?usp=sharing)
 
 - **실습 데이터**: [실습 데이터 압축파일](https://github.com/oracleyu01/r_for_bigbungi/blob/main/R%EA%B8%B0%EB%B3%B8%EA%B8%B0100%EC%A0%9C%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC.Egg) 👈 이 링크를 클릭한후 View raw 를 누르세요
 
